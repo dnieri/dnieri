@@ -1,6 +1,6 @@
 # Olá, sou a Débora Nieri 👋
 
-**Analista de Suporte de TI** · Service Desk · End User Computing · ITSM
+**Analista de Suporte de TI** · Service Desk · End User Computing · ITSM<br>
 São Paulo, Brasil · [LinkedIn](https://www.linkedin.com/in/dnieri)
 
 Trabalho com operação de TI em ambiente corporativo multinacional — Service Desk, gestão de ativos,
